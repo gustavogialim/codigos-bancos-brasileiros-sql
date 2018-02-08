@@ -2,4 +2,4 @@
 Tabela de código/nome dos bancos brasileiros.
 
 A tabela contém o CREATE e o INSERT para os bancos brasileiros padrões.
-Você tem a opção de utilizar as instruções abaixo ou baixa o arquivo .sql no repositório.
+As instruções se encontram no arquivo .sql deste repositório.
